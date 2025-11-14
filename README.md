@@ -2,8 +2,6 @@
 
 🎓 Graduated Computer Science student at Langara College
 
-💻 Full-stack developer passionate about building web applications with modern technologies
-
 
 
 ## 🌐 Socials:
