@@ -1,6 +1,12 @@
 ## Heeeey, I'm Victor :D
 
+📍 Based in Vancouver, BC
 🎓 Graduated Computer Science student at Langara College
+💻 Building across the full stack: web, mobile, and desktop
+🔍 Naturally curious, always exploring, always learning
+🚀 Always looking for new challenges and technologies to explore
+🌎 Fluent in English, Portuguese, French and Spanish
+
 
 
 
