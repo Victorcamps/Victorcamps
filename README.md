@@ -3,6 +3,8 @@
 ## 🚧 What I'm Working On
 🌤️ Wheather App — Desktop app in C++, Python and Qt that reads your location, fetches live weather and tells you the best recommendations according to the forecast!
 
+📝 My portifolio website 
+
 ☁️ Studying for my AWS Cloud Practitioner certification
 
 🎮 Exploring game development with Unreal Engine on the side
