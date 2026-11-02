@@ -4,6 +4,8 @@
 
 📍 Brazilian living in Toronto, building things I care about
 
+💼 QA Specialist @ Smilegate West 
+
 ## 🚧 What I'm Working On
 
 🛫 [**LilVenture**](https://lilventure.app/) — A collaborative group travel planning app built with React Native, TypeScript, Go and PostgreSQL. Published on the App Store!
