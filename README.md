@@ -1,8 +1,8 @@
 # Hey, I'm Victor 👋
 
-🎓 CS Graduate from Langara College — Vancouver, BC
+🎓 CS Graduate from Langara College - Vancouver, BC
 
-📍 Brazilian living in Vancouver, building things I care about
+📍 Brazilian living in Toronto, building things I care about
 
 ## 🚧 What I'm Working On
 
